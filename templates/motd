@@ -4,5 +4,5 @@
 #
 # Instructions:
 # - See RELEASENOTES.txt on the Desktop for installed packages
-# - type 'workon aiida' to enable the AiiDA 'verdi' commands
+# - type 'workon siesta_school' to access the python packages
 ##########################################################################
