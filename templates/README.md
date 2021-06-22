@@ -1,6 +1,6 @@
 # Welcome to {{ qm_customizations_vm_name }} version {{ qm_customizations_vm_version }}
 
-*Quantum Mobile* is a Virtual Machine for computational materials science, distributed by the {{ qm_customizations_vm_author }}.
+*Siesta Mobile* is a Virtual Machine for computational materials science, distributed by the {{ qm_customizations_vm_author }}.
 
 It comes with a collection of software packages for quantum mechanical calculations, including:
 
@@ -12,7 +12,7 @@ all of which are set up and ready to be used on their own or through [AiiDA](htt
 
 # Getting started
 
-* Click the Terminal icon and type `workon aiida`
+* Click the Terminal icon and type `workon siesta_school` to access python packages
 
 * All executables have been installed in `/usr/local/bin`
 
